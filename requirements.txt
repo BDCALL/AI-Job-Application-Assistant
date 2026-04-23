@@ -1,0 +1,11 @@
+langchain==0.1.17
+langchain-openai==0.0.8
+langchain-community==0.0.38
+faiss-cpu
+pypdf
+streamlit
+numexpr
+python-dotenv
+fastapi
+uvicorn
+requests
